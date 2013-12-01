@@ -1,0 +1,9 @@
+{
+  "vars": {},
+  "css": [
+    "type.less",
+    "grid.less",
+    "tables.less"
+  ],
+  "js": []
+}
